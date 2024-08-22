@@ -1,0 +1,524 @@
+{
+  "individuals": {
+    "Lawrence": "m",
+    "Beverly": "f",
+    "Lena": "f",
+    "Terrence": "m",
+    "Louis": "m",
+    "Vanessa": "f",
+    "Jeremy": "m",
+    "Jean": "f",
+    "Bruce": "m",
+    "Roxanne": "f",
+    "Melanie": "f",
+    "Astrid": "f",
+    "Berlin": "f",
+    "Emerson": "n",
+    "Kyle": "m",
+    "Dale": "m",
+    "Emmett": "m",
+    "Samantha": "f",
+    "Jaime": "n",
+    "Gray": "n",
+    "Zane": "m",
+    "Vivian": "f",
+    "Bjorn": "m",
+    "Maxim": "m",
+    "Deborah": "f",
+    "Brandon": "m",
+    "LaToya": "f",
+    "Kwame": "m",
+    "Alice": "f",
+    "Olive": "f",
+    "Kofi": "m",
+    "Beau": "m",
+    "Natalie": "f",
+    "Blair": "n",
+    "Ruby": "f",
+    "Elle": "f",
+    "Wallace": "m",
+    "Axel": "m",
+    "Paul": "m",
+    "Charlotte": "f",
+    "Amy": "f",
+    "Malik": "m",
+    "Akua": "f",
+    "Niveah": "f",
+    "Elijah": "m",
+    "Eva": "f",
+    "Lily": "f",
+    "Aaron": "m",
+    "Hope": "f",
+    "Drew": "m",
+    "True": "n",
+    "Xavier": "m",
+    "Maya": "f",
+    "Seth": "m",
+    "Andrea": "f",
+    "Pamela": "f",
+    "Otis": "m",
+    "Antonia": "f",
+    "Mateo": "m",
+    "Henry": "m",
+    "Milan": "m",
+    "Katarina": "f",
+    "Nora": "f",
+    "Darryl": "m",
+    "Amanda": "f",
+    "Jazz": "n",
+    "Avery": "m",
+    "Gary": "m",
+    "Barbara": "f",
+    "Arnold": "m",
+    "Cameron": "n",
+    "Carlos": "m",
+    "Ruth": "f",
+    "Maria": "f",
+    "Lisa": "f",
+    "Quinn": "n",
+    "Gavin": "m",
+    "Hugh": "m",
+    "Gail": "f",
+    "April": "f",
+    "Topaz": "n",
+    "Owen": "m",
+    "Dara": "f",
+    "Michelle": "f",
+    "Zo\u00eb": "f",
+    "Ainsley": "f",
+    "Ezra": "m",
+    "Carmen": "f",
+    "Brett": "m",
+    "Lois": "f",
+    "Elspeth": "f",
+    "Gordon": "m",
+    "Anada": "f",
+    "May": "f",
+    "Somchai": "m",
+    "Prawat": "m",
+    "Yihwa": "f",
+    "Sujira": "f",
+    "Samuel": "m",
+    "Phoebe": "f",
+    "Marjorie": "f",
+    "Lester": "m",
+    "Ansel": "m",
+    "Leonard": "m"
+  },
+  "parents": {
+    "Terrence": [
+      "Lawrence",
+      "Beverly"
+    ],
+    "Vanessa": [
+      "Lena",
+      "Terrence"
+    ],
+    "Jean": [
+      "Louis",
+      "Vanessa"
+    ],
+    "Roxanne": [
+      "Jeremy",
+      "Jean"
+    ],
+    "Melanie": [
+      "Bruce",
+      "Roxanne"
+    ],
+    "Astrid": [
+      "Bruce",
+      "Roxanne"
+    ],
+    "Emerson": [
+      "Astrid",
+      "Berlin"
+    ],
+    "Kyle": [
+      "Jeremy",
+      "Jean"
+    ],
+    "Dale": [
+      "Jeremy",
+      "Jean"
+    ],
+    "Emmett": [
+      "Louis",
+      "Vanessa"
+    ],
+    "Gray": [
+      "Emmett",
+      "Samantha"
+    ],
+    "Zane": [
+      "Jaime",
+      "Gray"
+    ],
+    "Bjorn": [
+      "Vivian",
+      "Zane"
+    ],
+    "Maxim": [
+      "Vivian",
+      "Zane"
+    ],
+    "Deborah": [
+      "Lena",
+      "Terrence"
+    ],
+    "Brandon": [
+      "Lawrence",
+      "Beverly"
+    ],
+    "Alice": [
+      "Brandon",
+      "LaToya"
+    ],
+    "Kofi": [
+      "Kwame",
+      "Alice"
+    ],
+    "Natalie": [
+      "Olive",
+      "Kofi"
+    ],
+    "Ruby": [
+      "Beau",
+      "Natalie"
+    ],
+    "Elle": [
+      "Blair",
+      "Ruby"
+    ],
+    "Wallace": [
+      "Blair",
+      "Ruby"
+    ],
+    "Axel": [
+      "Beau",
+      "Natalie"
+    ],
+    "Charlotte": [
+      "Axel",
+      "Paul"
+    ],
+    "Amy": [
+      "Axel",
+      "Paul"
+    ],
+    "Malik": [
+      "Olive",
+      "Kofi"
+    ],
+    "Akua": [
+      "Kwame",
+      "Alice"
+    ],
+    "Niveah": [
+      "Brandon",
+      "LaToya"
+    ],
+    "Elijah": [
+      "Brandon",
+      "LaToya"
+    ],
+    "Eva": [
+      "Gary",
+      "Barbara"
+    ],
+    "Aaron": [
+      "Elijah",
+      "Eva"
+    ],
+    "Drew": [
+      "Lily",
+      "Aaron"
+    ],
+    "True": [
+      "Hope",
+      "Drew"
+    ],
+    "Xavier": [
+      "Lily",
+      "Aaron"
+    ],
+    "Maya": [
+      "Lily",
+      "Aaron"
+    ],
+    "Otis": [
+      "Maya",
+      "Seth"
+    ],
+    "Antonia": [
+      "Andrea",
+      "Otis"
+    ],
+    "Mateo": [
+      "Andrea",
+      "Otis"
+    ],
+    "Henry": [
+      "Maya",
+      "Seth"
+    ],
+    "Katarina": [
+      "Henry",
+      "Milan"
+    ],
+    "Nora": [
+      "Elijah",
+      "Eva"
+    ],
+    "Darryl": [
+      "Elijah",
+      "Eva"
+    ],
+    "Jazz": [
+      "Darryl",
+      "Amanda"
+    ],
+    "Avery": [
+      "Darryl",
+      "Amanda"
+    ],
+    "Barbara": [
+      "Samuel",
+      "Phoebe"
+    ],
+    "Arnold": [
+      "Gary",
+      "Barbara"
+    ],
+    "Ruth": [
+      "Arnold",
+      "Cameron"
+    ],
+    "Maria": [
+      "Carlos",
+      "Ruth"
+    ],
+    "Lisa": [
+      "Carlos",
+      "Ruth"
+    ],
+    "Gavin": [
+      "Lisa",
+      "Quinn"
+    ],
+    "Hugh": [
+      "Pamela",
+      "Gavin"
+    ],
+    "Gail": [
+      "Pamela",
+      "Gavin"
+    ],
+    "April": [
+      "Lisa",
+      "Quinn"
+    ],
+    "Topaz": [
+      "Arnold",
+      "Cameron"
+    ],
+    "Owen": [
+      "Arnold",
+      "Cameron"
+    ],
+    "Dara": [
+      "May",
+      "Somchai"
+    ],
+    "Michelle": [
+      "Owen",
+      "Dara"
+    ],
+    "Ainsley": [
+      "Michelle",
+      "Zo\u00eb"
+    ],
+    "Ezra": [
+      "Michelle",
+      "Zo\u00eb"
+    ],
+    "Carmen": [
+      "Michelle",
+      "Zo\u00eb"
+    ],
+    "Lois": [
+      "Carmen",
+      "Brett"
+    ],
+    "Elspeth": [
+      "Carmen",
+      "Brett"
+    ],
+    "Gordon": [
+      "Carmen",
+      "Brett"
+    ],
+    "Anada": [
+      "May",
+      "Somchai"
+    ],
+    "Somchai": [
+      "Prawat",
+      "Yihwa"
+    ],
+    "Sujira": [
+      "Prawat",
+      "Yihwa"
+    ],
+    "Marjorie": [
+      "Samuel",
+      "Phoebe"
+    ],
+    "Ansel": [
+      "Marjorie",
+      "Lester"
+    ],
+    "Leonard": [
+      "Marjorie",
+      "Lester"
+    ]
+  },
+  "couples": [
+    [
+      "Samantha",
+      "Emmett"
+    ],
+    [
+      "Lisa",
+      "Quinn"
+    ],
+    [
+      "Louis",
+      "Vanessa"
+    ],
+    [
+      "Seth",
+      "Maya"
+    ],
+    [
+      "Drew",
+      "Hope"
+    ],
+    [
+      "Ruth",
+      "Carlos"
+    ],
+    [
+      "Carmen",
+      "Brett"
+    ],
+    [
+      "Cameron",
+      "Arnold"
+    ],
+    [
+      "May",
+      "Somchai"
+    ],
+    [
+      "Olive",
+      "Kofi"
+    ],
+    [
+      "Owen",
+      "Dara"
+    ],
+    [
+      "Phoebe",
+      "Samuel"
+    ],
+    [
+      "Gavin",
+      "Pamela"
+    ],
+    [
+      "Zo\u00eb",
+      "Michelle"
+    ],
+    [
+      "Otis",
+      "Andrea"
+    ],
+    [
+      "Ruby",
+      "Blair"
+    ],
+    [
+      "Natalie",
+      "Beau"
+    ],
+    [
+      "Paul",
+      "Axel"
+    ],
+    [
+      "Prawat",
+      "Yihwa"
+    ],
+    [
+      "Lawrence",
+      "Beverly"
+    ],
+    [
+      "Bruce",
+      "Roxanne"
+    ],
+    [
+      "Alice",
+      "Kwame"
+    ],
+    [
+      "Darryl",
+      "Amanda"
+    ],
+    [
+      "Lily",
+      "Aaron"
+    ],
+    [
+      "Lester",
+      "Marjorie"
+    ],
+    [
+      "Astrid",
+      "Berlin"
+    ],
+    [
+      "LaToya",
+      "Brandon"
+    ],
+    [
+      "Terrence",
+      "Lena"
+    ],
+    [
+      "Eva",
+      "Elijah"
+    ],
+    [
+      "Zane",
+      "Vivian"
+    ],
+    [
+      "Gary",
+      "Barbara"
+    ],
+    [
+      "Milan",
+      "Henry"
+    ],
+    [
+      "Jeremy",
+      "Jean"
+    ],
+    [
+      "Gray",
+      "Jaime"
+    ]
+  ]
+}
